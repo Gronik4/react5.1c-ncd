@@ -4,6 +4,6 @@
 ## 'Описание':  
 Необходимо реализовать компонент карточек
 
-**Project Sample** 
+**Project Sample** [![Build status](https://ci.appveyor.com/api/projects/status/5fe6olda567bx6jf?svg=true)](https://ci.appveyor.com/project/Gronik4/react5-1c-ncd) 
 
 [Посмотреть результат](https://gronik4.github.io/react5.1c-ncd/ )
